@@ -1,0 +1,8 @@
+/green -green
+/yellow -yellow 
+/red -red
+/black - black
+/white - white
+/checkered - checkered
+/gwc - green white checkered
+/showflags - displays the flag on your screen
